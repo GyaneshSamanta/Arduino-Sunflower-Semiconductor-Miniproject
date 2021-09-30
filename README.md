@@ -59,8 +59,9 @@ This charecteristic was borrowed from Sunflowers. As sunflowers have a tendency 
 ## Collaborators 🤖
 | Name      | GitHub Profile     |
 | :------------- | :----------: |
-|  Gyanesh Samanta | [GitHub](https://github.com/GyaneshSamanta)   |
+|  Gyanesh Samanta (Team Lead) | [GitHub](https://github.com/GyaneshSamanta)   | 
 |  Ankit Yadav | [GitHub](https://github.com/annymehack)   |
+|  Rishal Ramesh  | [GitHub](https://github.com/Rishal16)
 
 
 ### Winners of the Project Demo
