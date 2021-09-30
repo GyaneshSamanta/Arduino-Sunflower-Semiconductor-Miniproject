@@ -60,6 +60,7 @@ This charecteristic was borrowed from Sunflowers. As sunflowers have a tendency 
 | Name      | GitHub Profile     |
 | :------------- | :----------: |
 |  Gyanesh Samanta | [GitHub](https://github.com/GyaneshSamanta)   |
+|  Ankit Yadav | [GitHub](https://github.com/annymehack)   |
 
 
 ### Winners of the Project Demo
