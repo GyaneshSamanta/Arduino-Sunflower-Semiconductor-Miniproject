@@ -62,7 +62,9 @@ This charecteristic was borrowed from Sunflowers. As sunflowers have a tendency 
 |  Gyanesh Samanta (Team Lead) | [GitHub](https://github.com/GyaneshSamanta)   | 
 |  Ankit Yadav | [GitHub](https://github.com/annymehack)   |
 |  Rishal Ramesh  | [GitHub](https://github.com/Rishal16) |
-|  Anumukonda Sowjanya | [GitHub](https://github.com/Sowjanya1924)
+|  Anumukonda Sowjanya | [GitHub](https://github.com/Sowjanya1924) |
+|  Pratiksha Ghosh | [GitHub](https://github.com/PratikshaGhosh) |
+|  Souharda Biswas | [GitHub](https://github.com/TheSouharda) |
 
 
 ### Winners of the Project Demo
