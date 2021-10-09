@@ -66,7 +66,7 @@ This charecteristic was borrowed from Sunflowers. As sunflowers have a tendency 
 |  Pratiksha Ghosh | [GitHub](https://github.com/PratikshaGhosh) |
 |  Souharda Biswas | [GitHub](https://github.com/TheSouharda) |
 |  Chinmay Somani  | [GitHub](https://github.com/slammdesigner)|
-
+|  Sai Dhatri Byrisetti | [GitHub](https://github.com/DhatriSaiB)
 ### Winners of the Project Demo
 
 ![Winners](https://user-images.githubusercontent.com/52783096/123084544-e0d44280-d43e-11eb-8026-00352c51e8c2.jpeg)
