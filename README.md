@@ -1,15 +1,13 @@
-# Project Description
-For our 1st Semester in SRMIST University, we had to build a mini project for the course "Semiconductor Physics" 
+# Arduino Sunflower
+#### Winner, Best Semiconductor Mini-Project 2019
 
-## Links to SRM University
-1. [Website](https://www.srmist.edu.in/)
 
 
 ![SRM](https://user-images.githubusercontent.com/52783096/122576405-499e7200-d06f-11eb-9504-4b372433be3c.png)
 
 ## Problem Statement 🚧
 
-To increase efficiency of Solar panels in order to tap more into the solar energy. 
+To increase energy capture efficiency of Solar Panels. 
 
 ## Background 📖
 
